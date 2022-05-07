@@ -8,7 +8,7 @@ Acknowledge: https://github.com/ultralytics/yolov3
 
 1. coco.names(80 label data)
 
-2. yolov3.weights
+2. yolov3.weights(https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights)
 
 3. yolov3.config
 
